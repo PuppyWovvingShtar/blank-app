@@ -1,7 +1,3 @@
-
-
-
-
 import streamlit as st
 
 st.title("🌺🤪 Zergei's Programming club")
